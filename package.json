@@ -58,7 +58,7 @@
     "authorize-vercel-deploys": "tsx scripts/authorizeVercelDeploys.ts"
   },
   "devDependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.1041.0",
+    "@aws-sdk/client-secrets-manager": "^3.1161.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.7.0",
     "@types/node": "catalog:",
     "cn": "catalog:",
