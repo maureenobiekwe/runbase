@@ -1,0 +1,13 @@
+{
+  "homepage:heading": "Runbase Documentation",
+  "metadata:application_name": "Runbase Docs",
+  "metadata:title": "Runbase Docs",
+  "navigation:logo": {
+    "light": "/docs/runbase-light.svg",
+    "dark": "/docs/runbase-dark.svg"
+  },
+  "mcp:servers": {
+    "local": "http://localhost:54321/mcp",
+    "remote": "https://mcp.supabase.com/mcp"
+  }
+}
